@@ -1,0 +1,31 @@
+### Unreal Engine 5 Core ###
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+### Engine/Editor Cache & Temp ###
+.vs/
+.vscode/
+.idea/
+
+### Project Configs (exclude local overrides) ###
+Saved/Config/*/
+!Saved/Config/Default*.ini
+!Saved/Config/DefaultEngine.ini
+!Saved/Config/DefaultGame.ini
+!Saved/Config/DefaultInput.ini
+Saved/Config/CRASHREPORTER/
+Saved/Config/WindowsEditor/
+Saved/Config/LinuxEditor/
+Saved/Config/MacEditor/
+
+### Miscellaneous ###
+Thumbnails/
+Cooked/
+Packaged/
+Staged/
+Debug/
+Release/
+Profile/

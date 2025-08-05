@@ -1,0 +1,22 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{569FBA00-4C87-4B7E-0E48-BB8625C6EF02}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TCQT",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}
